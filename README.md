@@ -8,7 +8,7 @@ Run the code in Python to see the sum of two numbers.
 
 Code:
 
-num1 = 6
-num2 = 11
+num1 = 7
+num2 = 12
 sum_result = num1 + num2
 print("The sum is:", sum_result)
