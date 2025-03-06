@@ -1,6 +1,6 @@
 # Define two numbers
-num1 = 6
-num2 = 11
+num1 = 7
+num2 = 12
 
 # Add the numbers
 sum_result = num1 + num2
